@@ -28,7 +28,7 @@ class Index extends React.Component {
           <p>
             An unexpected error has occurred. Please{' '}
             <u>
-              <a href="https://github.com/carbon-app/carbon">file an issue here</a>
+              <a href="https://github.com/injoon5/carbon">file an issue here</a>
             </u>
             .
           </p>
